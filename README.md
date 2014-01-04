@@ -1,4 +1,0 @@
-SecureBoardShare
-================
-
-Secure BoardShare
